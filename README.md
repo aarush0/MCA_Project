@@ -18,3 +18,8 @@ This file contains the code for the baseline MELD paper[12], which is executed o
 For excuting the file load all the components of ipynb file.
 Run the main cell and change the modality (text/audio) accordingly.
 
+# train_frames_make.py, train_frames_filter.py, train_frames_join.py
+Files to preprocess videos, and convert videos into frames, and store them as np arrays.
+
+# mca_vgg.py
+Use VGG to extract features from frames and trains a NN to classify them into 4 emotions
