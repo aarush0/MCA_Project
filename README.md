@@ -30,5 +30,8 @@ You need to run the main cell and remove the comment for the specific modality t
 This code work for tensorflow 1.1x version only.
 The dataset has been balanced to make the quanities of all emotions equal.
 
+# VGG MoreBalanced.ipynb
+This is the code for the video modality involvong the VGG. We have use the balanced dataset in this case. We use LSTM in this case.
+
 # Data
 Link to all pickle files: https://drive.google.com/open?id=1rLmKQBN4QOtRgJY5ag2f-R2_g4UYyOVb
