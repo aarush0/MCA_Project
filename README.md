@@ -22,4 +22,7 @@ Run the main cell and change the modality (text/audio) accordingly.
 Files to preprocess videos, and convert videos into frames, and store them as np arrays.
 
 # mca_vgg.py
-Use VGG to extract features from frames and trains a NN to classify them into 4 emotions
+Use VGG to extract features from frames and trains a NN to classify them into 4 emotions.
+
+# main.py
+Displays results from various modalities using pre trained models.
