@@ -13,3 +13,8 @@ You can use detect.py file to extract the faces from the video. \
 We have already extracted the features using emotion_detection.py. We have saved the extracted features using pickle files. \
 You can directly run the code with the help of the pre extracted features using run_svm.py
 
+# MCA Original.ipynb
+This file contains the code for the baseline MELD paper[12], which is executed on the balanced dataset.
+For excuting the file load all the components of ipynb file.
+Run the main cell and change the modality (text/audio) accordingly.
+
