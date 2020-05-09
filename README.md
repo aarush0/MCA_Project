@@ -34,4 +34,7 @@ The dataset has been balanced to make the quanities of all emotions equal.
 This is the code for the video modality involvong the VGG. We have use the balanced dataset in this case. We use LSTM in this case.
 
 # Data
-Link to all pickle files: https://drive.google.com/open?id=1rLmKQBN4QOtRgJY5ag2f-R2_g4UYyOVb
+Link to all pickle files curated by us: https://drive.google.com/open?id=1rLmKQBN4QOtRgJY5ag2f-R2_g4UYyOVb
+
+# Original Data
+Link to original MELD features : https://drive.google.com/drive/folders/1y4nj9rBMHyEvfLNMcpoKsXm9cGdAcZpy
