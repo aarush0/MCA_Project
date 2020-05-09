@@ -29,3 +29,6 @@ This is the file that runs the text audio and bimodal modality with attention la
 You need to run the main cell and remove the comment for the specific modality that you need to run.
 This code work for tensorflow 1.1x version only.
 The dataset has been balanced to make the quanities of all emotions equal.
+
+# Data
+Link to all pickle files: https://drive.google.com/open?id=1rLmKQBN4QOtRgJY5ag2f-R2_g4UYyOVb
