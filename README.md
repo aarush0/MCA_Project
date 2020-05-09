@@ -22,7 +22,10 @@ Run the main cell and change the modality (text/audio) accordingly.
 Files to preprocess videos, and convert videos into frames, and store them as np arrays.
 
 # mca_vgg.py
-Use VGG to extract features from frames and trains a NN to classify them into 4 emotions.
+Use VGG to extract features from frames and trains a NN to classify them into 4 emotions
 
-# main.py
-Displays results from various modalities using pre trained models.
+# MCA_Project_Audio_Text_Attention.ipynb
+This is the file that runs the text audio and bimodal modality with attention layer implemented. 
+You need to run the main cell and remove the comment for the specific modality that you need to run.
+This code work for tensorflow 1.1x version only.
+The dataset has been balanced to make the quanities of all emotions equal.
