@@ -34,7 +34,7 @@ The dataset has been balanced to make the quanities of all emotions equal.
 This is the code for the video modality involvong the VGG. We have use the balanced dataset in this case. We use LSTM in this case.
 
 # Pickle files
-1. Audio_model.h5 - model for audio modality \
+1. Audio_model.h5 - model for audio modality 
 2. Text_model.h5 - model for text modality \
 3. Bimodal_model.h5 - model for bimodal modality \
 4. Video_model.h5 - model for video modality \
